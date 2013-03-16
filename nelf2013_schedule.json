@@ -1,35 +1,35 @@
-{"day": "SAT","component": "NELF","starttime": 0930,"endtime": 1000,"title": "Opening Keynote","speaker": "Jonathan Nadeau / John Maddog Hall"}
-{"day": "SAT","component": "NELF","starttime": 1000,"endtime": 1100,"room": "Hall A","title": "One Laptop Per Child (OLPC) Project Status","speaker": "Samuel Klein"}
-{"day": "SAT","component": "NELF","starttime": 1000,"endtime": 1100,"room": "Hall B","speaker": "Jonathan Nadeau"}
-{"day": "SAT","component": "NELF","starttime": 1000,"endtime": 1100,"room": "Hall C","speaker": "David Nally"}
-{"day": "SAT","component": "NELF","starttime": 1100,"endtime": 1200,"room": "Hall A","title": "The Human Element of Linux","speaker": "Cody Cooper"}
-{"day": "SAT","component": "NELF","starttime": 1100,"endtime": 1200,"room": "Hall B","title": "Executive Director, FSF","speaker": "John Sullivan"}
-{"day": "SAT","component": "NELF","starttime": 1100,"endtime": 1200,"room": "Hall C","title": "SELinux","speaker": "Dan Walsh"}
-{"day": "SAT","component": "NELF","starttime": 1300,"endtime": 1400,"room": "Hall A","title": "Tor Project","speaker": "Andrew Lewman"}
-{"day": "SAT","component": "NELF","starttime": 1300,"endtime": 1400,"room": "Hall B","title": "Free Software for Everyone!","speaker": "Matt Lee"}
-{"day": "SAT","component": "NELF","starttime": 1300,"endtime": 1400,"room": "Hall C","title": "KVM","speaker": "Rich Van Riel"}
-{"day": "SAT","component": "NELF","starttime": 1400,"endtime": 1500,"room": "Hall A","title": "Linux and the Command Line","speaker": "Thomas Gideon"}
-{"day": "SAT","component": "NELF","starttime": 1400,"endtime": 1500,"room": "Hall B","title": "Berkman Center, EFF","speaker": "Wendy Seltzer"}
-{"day": "SAT","component": "NELF","starttime": 1400,"endtime": 1500,"room": "Hall C","title": "MythTV","speaker": "Matt Hicks"}
-{"day": "SAT","component": "NELF","starttime": 1500,"endtime": 1600,"room": "Hall A","title": "Open Wonderland","speaker": "Nicole Yankelovich"}
-{"day": "SAT","component": "NELF","starttime": 1500,"endtime": 1600,"room": "Hall B","title": "UEFI Boot Issues","speaker": "Matt Garrett"}
-{"day": "SAT","component": "NELF","starttime": 1500,"endtime": 1600,"room": "Hall C","title": "From SkySQL","speaker": "Max Mether"}
-{"day": "SAT","component": "NELF","starttime": 1600,"endtime": 1700,"speaker": "John Maddog Hall"}
-{"day": "SUN","component": "NELF","starttime": 0900,"endtime": 1000,"room": "Hall B","title": "Desktop Virtualization","speaker": "Jerry Feldman"}
-{"day": "SUN","component": "NELF","starttime": 0900,"endtime": 1000,"room": "Hall C","speaker": "Bob Boule"}
-{"day": "SUN","component": "NELF","starttime": 1000,"endtime": 1100,"room": "Hall B","title": "FreeNas","speaker": "Dru Lavigne"}
-{"day": "SUN","component": "NELF","starttime": 1000,"endtime": 1100,"room": "Hall C","title": "You're the new Linux Admin & MySQL DBA too!","speaker": "David Stokes"}
-{"day": "SUN","component": "NELF","starttime": 1100,"endtime": 1200,"room": "Hall B","title": "Get Git in Three Easy Steps","speaker": "Klaatu"}
-{"day": "SUN","component": "NELF","starttime": 1100,"endtime": 1200,"room": "Hall C","title": "Mozilla Android Phone","speaker": "Sheeri Cabral"}
-{"day": "SUN","component": "NELF","starttime": 1200,"endtime": 1300,"room": "Hall B","speaker": "Ted Tso"}
-{"day": "SUN","component": "NELF","starttime": 1200,"endtime": 1300,"room": "Hall C","speaker": "Jessie Vincent"}
-{"day": "SAT","component": "ODBC","starttime": 1000,"endtime": 1100,"room": "Hall E","title":"Fractal Tree Indexes - Theory and Usage","speaker": "Tim Callaghan, Tokutek"}
-{"day": "SAT","component": "ODBC","starttime": 1100,"endtime": 1200,"room": "Hall E","title":"Elastic Scalability with MySQL","speaker": "Amrith Kumar, ParElastic"}
-{"day": "SAT","component": "ODBC","starttime": 1300,"endtime": 1400,"room": "Hall E","title":"Intro to MongoDB","speaker": "H. 'Waldo' Grunenwald"}
-{"day": "SAT","component": "ODBC","starttime": 1400,"endtime": 1500,"room": "Hall E","title":"Elastic Clustering with Serializable Isolation","speaker": "Ariel Weisberg, VoltDB"}
-{"day": "SAT","component": "ODBC","starttime": 1500,"endtime": 1600,"room": "Hall E","title":"MariaDB: An Introduction to 10.0","speaker": "Colin Charles, Monty Program"}
-{"day": "SAT","component": "ODBC","starttime": 1600,"endtime": 1700,"room": "Hall E","title":"Drop-in help with experts","speaker": "Experts"}
-{"day": "SUN","component": "ODBC","starttime": 1000,"endtime": 1100,"room": "Hall E","title":"MySQL 5.6 Replication Features and Usability","speaker": "Giuseppe Maxia, Continuent"}
-{"day": "SUN","component": "ODBC","starttime": 1100,"endtime": 1200,"room": "Hall E","title":"High Availability solutions for MySQL","speaker": "Max Mether, SkySQL"}
-{"day": "SUN","component": "ODBC","starttime": 1200,"endtime": 1300,"room": "Hall E","title":"Creating Multi-master Clusters with Tungsten Replicator","speaker": "Giuseppe Maxia, Continuent"}
+{"component": "NELF","day": "SAT","starttime": 0930,"endtime": 1000,"title": "Opening Keynote","speaker": "Jonathan Nadeau / John Maddog Hall"}
+{"component": "NELF","day": "SAT","starttime": 1000,"endtime": 1100,"room": "Hall A","title": "One Laptop Per Child (OLPC) Project Status","speaker": "Samuel Klein"}
+{"component": "NELF","day": "SAT","starttime": 1000,"endtime": 1100,"room": "Hall B","speaker": "Jonathan Nadeau"}
+{"component": "NELF","day": "SAT","starttime": 1000,"endtime": 1100,"room": "Hall C","speaker": "David Nally"}
+{"component": "NELF","day": "SAT","starttime": 1100,"endtime": 1200,"room": "Hall A","title": "The Human Element of Linux","speaker": "Cody Cooper"}
+{"component": "NELF","day": "SAT","starttime": 1100,"endtime": 1200,"room": "Hall B","title": "Executive Director, FSF","speaker": "John Sullivan"}
+{"component": "NELF","day": "SAT","starttime": 1100,"endtime": 1200,"room": "Hall C","title": "SELinux","speaker": "Dan Walsh"}
+{"component": "NELF","day": "SAT","starttime": 1300,"endtime": 1400,"room": "Hall A","title": "Tor Project","speaker": "Andrew Lewman"}
+{"component": "NELF","day": "SAT","starttime": 1300,"endtime": 1400,"room": "Hall B","title": "Free Software for Everyone!","speaker": "Matt Lee"}
+{"component": "NELF","day": "SAT","starttime": 1300,"endtime": 1400,"room": "Hall C","title": "KVM","speaker": "Rich Van Riel"}
+{"component": "NELF","day": "SAT","starttime": 1400,"endtime": 1500,"room": "Hall A","title": "Linux and the Command Line","speaker": "Thomas Gideon"}
+{"component": "NELF","day": "SAT","starttime": 1400,"endtime": 1500,"room": "Hall B","title": "Berkman Center, EFF","speaker": "Wendy Seltzer"}
+{"component": "NELF","day": "SAT","starttime": 1400,"endtime": 1500,"room": "Hall C","title": "MythTV","speaker": "Matt Hicks"}
+{"component": "NELF","day": "SAT","starttime": 1500,"endtime": 1600,"room": "Hall A","title": "Open Wonderland","speaker": "Nicole Yankelovich"}
+{"component": "NELF","day": "SAT","starttime": 1500,"endtime": 1600,"room": "Hall B","title": "UEFI Boot Issues","speaker": "Matt Garrett"}
+{"component": "NELF","day": "SAT","starttime": 1500,"endtime": 1600,"room": "Hall C","title": "From SkySQL","speaker": "Max Mether"}
+{"component": "NELF","day": "SAT","starttime": 1600,"endtime": 1700,"speaker": "John Maddog Hall"}
+{"component": "NELF","day": "SUN","starttime": 0900,"endtime": 1000,"room": "Hall B","title": "Desktop Virtualization","speaker": "Jerry Feldman"}
+{"component": "NELF","day": "SUN","starttime": 0900,"endtime": 1000,"room": "Hall C","speaker": "Bob Boule"}
+{"component": "NELF","day": "SUN","starttime": 1000,"endtime": 1100,"room": "Hall B","title": "FreeNas","speaker": "Dru Lavigne"}
+{"component": "NELF","day": "SUN","starttime": 1000,"endtime": 1100,"room": "Hall C","title": "You're the new Linux Admin & MySQL DBA too!","speaker": "David Stokes"}
+{"component": "NELF","day": "SUN","starttime": 1100,"endtime": 1200,"room": "Hall B","title": "Get Git in Three Easy Steps","speaker": "Klaatu"}
+{"component": "NELF","day": "SUN","starttime": 1100,"endtime": 1200,"room": "Hall C","title": "Mozilla Android Phone","speaker": "Sheeri Cabral"}
+{"component": "NELF","day": "SUN","starttime": 1200,"endtime": 1300,"room": "Hall B","speaker": "Ted Tso"}
+{"component": "NELF","day": "SUN","starttime": 1200,"endtime": 1300,"room": "Hall C","speaker": "Jessie Vincent"}
+{"component": "ODBC","day": "SAT","starttime": 1000,"endtime": 1100,"room": "Hall E","title":"Fractal Tree Indexes - Theory and Usage","speaker": "Tim Callaghan, Tokutek"}
+{"component": "ODBC","day": "SAT","starttime": 1100,"endtime": 1200,"room": "Hall E","title":"Elastic Scalability with MySQL","speaker": "Amrith Kumar, ParElastic"}
+{"component": "ODBC","day": "SAT","starttime": 1300,"endtime": 1400,"room": "Hall E","title":"Intro to MongoDB","speaker": "H. 'Waldo' Grunenwald"}
+{"component": "ODBC","day": "SAT","starttime": 1400,"endtime": 1500,"room": "Hall E","title":"Elastic Clustering with Serializable Isolation","speaker": "Ariel Weisberg, VoltDB"}
+{"component": "ODBC","day": "SAT","starttime": 1500,"endtime": 1600,"room": "Hall E","title":"MariaDB: An Introduction to 10.0","speaker": "Colin Charles, Monty Program"}
+{"component": "ODBC","day": "SAT","starttime": 1600,"endtime": 1700,"room": "Hall E","title":"Drop-in help with experts","speaker": "Experts"}
+{"component": "ODBC","day": "SUN","starttime": 1000,"endtime": 1100,"room": "Hall E","title":"MySQL 5.6 Replication Features and Usability","speaker": "Giuseppe Maxia, Continuent"}
+{"component": "ODBC","day": "SUN","starttime": 1100,"endtime": 1200,"room": "Hall E","title":"High Availability solutions for MySQL","speaker": "Max Mether, SkySQL"}
+{"component": "ODBC","day": "SUN","starttime": 1200,"endtime": 1300,"room": "Hall E","title":"Creating Multi-master Clusters with Tungsten Replicator","speaker": "Giuseppe Maxia, Continuent"}
 
