@@ -21,7 +21,7 @@
 {"component": "NELF","day": "SUN","starttime": 1000,"endtime": 1100,"room": "Hall C","title": "You're the new Linux Admin & MySQL DBA too!","speaker": "David Stokes"}
 {"component": "NELF","day": "SUN","starttime": 1100,"endtime": 1200,"room": "Hall B","title": "Get Git in Three Easy Steps","speaker": "Klaatu"}
 {"component": "NELF","day": "SUN","starttime": 1100,"endtime": 1200,"room": "Hall C","title": "Mozilla Android Phone","speaker": "Sheeri Cabral"}
-{"component": "NELF","day": "SUN","starttime": 1200,"endtime": 1300,"room": "Hall B","speaker": "Ted Tso"}
+{"component": "NELF","day": "SUN","starttime": 1200,"endtime": 1300,"room": "Hall B","title": "The EXT4 Filesystem","speaker": "Ted Tso"}
 {"component": "NELF","day": "SUN","starttime": 1200,"endtime": 1300,"room": "Hall C","speaker": "Jessie Vincent"}
 {"component": "ODBC","day": "SAT","starttime": 1000,"endtime": 1100,"room": "Hall E","title":"Fractal Tree Indexes - Theory and Usage","speaker": "Tim Callaghan, Tokutek"}
 {"component": "ODBC","day": "SAT","starttime": 1100,"endtime": 1200,"room": "Hall E","title":"Elastic Scalability with MySQL","speaker": "Amrith Kumar, ParElastic"}
